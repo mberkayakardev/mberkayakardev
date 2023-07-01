@@ -15,8 +15,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" alt="c#" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"alt="Dotnet Framework" width="40" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="DotnetCore" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/>
- <img src=" https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="60" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
 
   
  
