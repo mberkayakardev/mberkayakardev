@@ -12,10 +12,13 @@
 
   ### Backend
   <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="40" height="40" />
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="visualcode" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons//csharp/csharp-original.svg" alt="c#" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"alt="Dotnet Framework" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="DotnetCore" width="40" height="40"/>
+ <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="40" height="40"/>
+ <img src=" https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+
+  
  
   </p>
   
@@ -31,7 +34,7 @@
   ### Datebase
   <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="40" height="40"/>
-    <img src="https://en.wikipedia.org/wiki/Oracle_Corporation#/media/File:Oracle_logo.svg" alt="oracledb" width="60" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" width="60" height="40" />
  </p>
   
  ### OS
@@ -45,7 +48,7 @@
   ### Others
    <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" width="60" height="40" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" width="60" height="40" /> 
  <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
   <img src="https://image.pngaaa.com/442/168442-middle.png" width="80" height="40" />
 
