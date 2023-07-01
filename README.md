@@ -54,7 +54,7 @@
   <img src="https://image.pngaaa.com/442/168442-middle.png" width="80" height="40" />
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mberkayakar" alt="Görüntülenme Sayısı" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mberkayakardev" alt="Görüntülenme Sayısı" /> </p>
 
 <hr>
 <h3 align="center">İletişim için:<h3>
