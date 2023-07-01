@@ -31,6 +31,7 @@
   ### Datebase
   <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/2000px-Microsoft_SQL_Server_Logo.svg.png" alt="sqlserver" width="40" height="40"/>
+    <img src="https://en.wikipedia.org/wiki/Oracle_Corporation#/media/File:Oracle_logo.svg" alt="oracledb" width="60" height="40"/>
  </p>
   
  ### OS
