@@ -8,7 +8,7 @@
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/1200px-Flag_of_Turkey.svg.png" width='96'>  |Merhaba, benim adım Berkay AKAR. Küçüklüğümden beri bilişim teknolojilerine ilgimin olması ve yeni çıkan teknolojileri takip etmeyi bir hobi haline getirmem nedeni ile bilişim dünyasının bana uygun olduğunu düşünerek 2017 yılında aldığım bir karar neticesinde Düzce Üniversitesi - Bilgisayar Mühendisliği bölümünü tercih etmiş ve bilişim dünyasına bir giriş yapmış bulunmaktayım. Gerek Üniversite hayatımdaki akademik çalışmalarım gerekse sektörde içerisinde buluduğum çeşitli süreçlerden edinmiş olduğum tecrübe ile Bilgisayar Bilimleri hakkında birçok daldan çeşitli projelerim ve uygulamalarım bulunmaktadır. Gerek kişisel sayfam üzerinde gerekse github üzerinde işinize yarayabileceğini düşündüğüm çalışmalarımı paylaştım. |
 
 
-<h2 style="text-align: center"> My Utilities and Achievements </h2>
+<h2 style="text-align: center;"> My Utilities and Achievements </h2>
 
   ### Backend
   <p align="left">
