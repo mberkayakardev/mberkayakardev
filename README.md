@@ -50,7 +50,7 @@
    <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
   <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" width="60" height="40" /> 
- <img src="https://www.capgemini.com/de-de/wp-content/uploads/sites/5/2019/09/VMware_logo_gry_RGB_300dpi.jpg" width="80" height="40" />
+ <img src="https://static.wikia.nocookie.net/logopedia/images/d/d7/VMware_Workstation_logo.jpg/revision/latest?cb=20180424012243" width="80" height="40" />
   <img src="https://image.pngaaa.com/442/168442-middle.png" width="80" height="40" />
 
 
