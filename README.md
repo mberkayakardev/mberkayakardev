@@ -50,7 +50,7 @@
    <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" /> 
   <img src="https://upload.wikimedia.org/wikipedia/en/f/f4/Docker_logo.svg" width="60" height="40" /> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" width="80" height="40" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" width="40" height="40" />
   <img src="https://image.pngaaa.com/442/168442-middle.png" width="80" height="40" />
 
 
