@@ -29,7 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" width="40" height="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-    <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="40" height="40">
+    <!-- <img src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-512.png" width="40" height="40"> -->
  </p>
   
   ### Datebase
