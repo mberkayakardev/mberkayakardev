@@ -62,6 +62,7 @@
  
  <div align="center">
 -📧 <a href="m.berkay.akar@gmail.com" aling="center">mberkayakar@outlook.com</a><br> <br> <br> 
+-🌐 <a href="https://berkayakar.com.tr/" aling="center">https://berkayakar.com.tr</a><br> <br> <br> 
 <!-- <a href="https://www.hackerrank.com/mberkayakar" aling="center"> Hackerrank Profilim </a><br> --> 
 </div>
 <br>
