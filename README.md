@@ -17,7 +17,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="DotnetCore" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="60" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
- <img src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" alt="Redis" width="40" height="40"/>
+ <img src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" alt="Redis" width="80" height="40"/>
  
 
  
