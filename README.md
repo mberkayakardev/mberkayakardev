@@ -44,7 +44,7 @@
   
  ### OS
   <p align="left">
-    <img src ="https://i0.wp.com/blog.ncce.org/wp-content/uploads/2017/04/microsoft-windows-logo-vector-download.jpg?fit=512%2C512" width="40" height="40" />
+    <img src ="https://cdn.pixabay.com/photo/2018/05/08/21/29/windows-3384024_1280.png" width="40" height="40" />
    <img src ="https://banner2.cleanpng.com/20180920/fol/kisspng-windows-server-2-12-logo-organization-brand-windows-server-5ba39cd715d540.3534964615374491750894.jpg" width="40" height="40" />
    <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" />
   <img src ="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/OS_Apple.png" width="40" height="40" />
