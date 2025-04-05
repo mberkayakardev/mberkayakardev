@@ -73,6 +73,6 @@
 <br>
 <hr>
 
- <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=mberkayakardev&screen_effect=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%232e222f00+0%25%2C+%232e222f00+0%25%29+&color=%23ffffffFF">
-
+<!-- <img alt="github stats" src="https://pixel-profile-ui.vercel.app/api/github-stats?username=mberkayakardev&screen_effect=true&pixelate_avatar=true&background=linear-gradient%280deg%2C+%232e222f00+0%25%2C+%232e222f00+0%25%29+&color=%23ffffffFF">
+-->
  
