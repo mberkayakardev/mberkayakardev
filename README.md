@@ -18,6 +18,8 @@
  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="Django" width="60" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
  <img src="https://1000logos.net/wp-content/uploads/2020/08/Redis-Logo.png" alt="Redis" width="60" height="40"/>
+ <img src="https://herve.beraud.io/images/blog/rabbitmq.png" alt="Redis" width="60" height="40"/>
+ 
  
 
  
