@@ -36,8 +36,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
     <img src="https://static-00.iconduck.com/assets.00/react-original-wordmark-icon-840x1024-vhmauxp6.png" width="40" height="40" />
     
-    
-    <!--  <img src="https://static-00.iconduck.com/assets.00/vue-js-icon-512x442-k8qh9h45.png" width="40" height="40"/> -->
+     
   
   </p>
   
